@@ -1,13 +1,13 @@
 # ABOUT
 
-~ Tool Name  :   pkgi - simple package installer
+**Tool Name  :   `pkgi` - simple package installer**
 
-~ Tool made for new Linux users for practical work and installation of pkgs and their includes
+**Tool made for new Linux users for practical work and installation of pkgs and their includes**
 
 -----
 # REQUIREMENTS
 
-~ Git
+~ `Git`
 
 -----
 # CLONING
