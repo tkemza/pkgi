@@ -170,7 +170,7 @@ other_menu_banner() {
 
     colors
 
-    cat <<- EOF
+    cat <<- EOF | lolcat
     
           ▄▄▄▄▄ ▄ .▄▄▄▄ .▄▄▄  
     ▪     •██  ██▪▐█▀▄.▀·▀▄ █·
