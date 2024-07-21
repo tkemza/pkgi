@@ -1,4 +1,4 @@
-# ABOUT
+# Pkgi
 
 **Tool Name  :   `pkgi` - simple package installer**
 
